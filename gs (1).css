@@ -1,0 +1,162 @@
+.direction {
+    background-color: aquamarine;
+}
+p.direction:hover {
+    background-color: bisque;
+}
+p.speech {
+    text-shadow: 2px 2px 5px grey;
+    letter-spacing: 1px;
+    line-height: 1.8;
+    word-spacing: -2px;
+    text-indent: 35px;
+    font-family:'Times New Roman';
+    font-size: 14px;
+    color: black;
+    text-align: left;
+}
+p.song {
+    letter-spacing: 1px;
+    line-height: 1.8;
+    word-spacing: -2px;
+    text-indent: 50px;
+    font-family: 'Times New Roman';
+    font-size: 14px;
+    color: black;
+    text-align: left;
+}
+.DR\..D\. {
+    font-family: Times New Roman;
+    text-align: left;
+    font-size: 17px;
+    color:green;
+    box-shadow: 6px 9px 13px red;
+    background-color: cyan;
+}
+.DR\..D\.:hover{
+    font-family: Times New Roman;
+    text-align: left;
+    font-size: 17px;
+    color:green;
+    box-shadow: 6px 9px 13px red;
+    background-color: cyan;
+}
+.SIR.M\.:hover {
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 17px;
+    box-shadow: 6px 9px 13px red;
+    color: yellow;
+    background-color: cyan;
+}
+.SIR.M\. {
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 17px;
+    box-shadow: 6px 9px 13px red;
+    color: yellow;
+    background-color: cyan;
+}
+.ALEX\.{
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 17px;
+    box-shadow: 6px 9px 13px red;
+    color: orangered;
+    background-color: cyan;  
+}
+h4.team {
+    text-decoration-line: overline;
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 12px;
+    color: black;
+    background-color: seagreen;
+
+  }
+  h4.team:hover {
+    text-decoration-line: overline;
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 12px;
+    color: black;
+    background-color: seagreen;
+    
+  }
+  table,th,td
+  {
+    border:2px solid black;
+  }
+  table
+  {
+    border-collapse:collapse;
+    width:20%;
+  }
+  td
+  {
+    height:40px;
+  }
+  tr
+  {
+    background-color: skyblue;
+    color:white;
+  }
+  th
+  {
+    background-color:red;
+    color:black;
+  } 
+  tr:hover {
+    background-color: coral;
+  }
+  td:nth-child(2){
+  background-color: orange;
+}
+th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+  .ALEXIS{
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 17px;
+    box-shadow: 6px 9px 13px red;
+    color: orangered;
+    background-color: cyan;  
+}
+.ALINE{
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 17px;
+    box-shadow: 6px 9px 13px red;
+    color: orangered;
+    background-color: cyan;  
+}
+.LADY.S\. {
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 17px;
+    box-shadow: 6px 9px 13px red;
+    color: orangered;
+    background-color: cyan;  
+}
+ul li { display: block;
+width: auto;
+text-align: left;
+}
+
+ul > li.i {
+display: table-cell;
+}
+
+li {
+    float: center;
+  }
+  
+  
+  li a:hover {
+    background-color: pink;
+}
+
